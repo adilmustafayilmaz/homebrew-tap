@@ -7,7 +7,7 @@ cask "tap-spaces" do
   desc "Detects which zone of the desk you tapped and fires a keyboard shortcut"
   homepage "https://github.com/adilmustafayilmaz/Tap-Spaces"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "TapSpaces.app"
 
