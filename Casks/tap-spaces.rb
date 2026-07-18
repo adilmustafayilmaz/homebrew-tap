@@ -1,6 +1,6 @@
 cask "tap-spaces" do
-  version "0.3.0"
-  sha256 "4a8484e8036cce367b2303d78f38224c9a169bb3df80fd2df4c406eda4f887ce"
+  version "0.4.0"
+  sha256 "00881dfbfc079379221f84ee82983f4f45ff91b9b5103c3730a041e4ddc6d538"
 
   url "https://github.com/adilmustafayilmaz/Tap-Spaces/releases/download/v#{version}/TapSpaces-#{version}.zip"
   name "Tap Spaces"
